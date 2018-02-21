@@ -1,7 +1,10 @@
 #!/usr/bin/perl\
+#
 # FBswparser Version 0.01
 # Chris Eaton
-# This is intended for Law Enforcement use
+# This is intended for Law Enforcement use but there is nothing here
+# that is confidential.
+#
 # Contact ceaton@wacotx.gov
 
 use v5.22.1;                           #enable features
