@@ -1,5 +1,5 @@
 use strict;
 
-print "Hello World.\n";
+print "This is an Atom-Git integration test.\n";
 
 die;
