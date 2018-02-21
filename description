@@ -1,0 +1,6 @@
+This is a perl script to parse a Facebook Warrant return, extracting UID's and
+performing various functions on them.
+
+It is my desire to develop something that identifies UID's to their profiles,
+with photos, and eventually start to determine links between them and
+display this all in an easy to read html format to speed up investigations.
