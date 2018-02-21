@@ -5,8 +5,7 @@
 # This is intended for Law Enforcement use but there is nothing here
 # that is confidential.
 #
-# I do not even pretend to be great at this. I am a beginer. This was created
-# to solve a need and suggestions for improvement are appreciated.
+# I do not even pretend to be great at this. Suggestions for improvement are appreciated.
 #
 # Contact chriseatontx@gmail.com
 
