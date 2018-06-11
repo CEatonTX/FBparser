@@ -3,7 +3,7 @@
 # FBswparser Version 0.01
 # Chris Eaton
 # This is intended for Law Enforcement use but there is nothing here
-# that is confidential.
+# that is confidential...
 #
 # I do not even pretend to be great at this. Suggestions for improvement are appreciated.
 #
